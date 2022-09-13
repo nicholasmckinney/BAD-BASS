@@ -1,0 +1,14 @@
+
+LIVEBAIT/.vs/
+
+LIVEBAIT/payload/
+
+LIVEBAIT/x64/
+
+PHISHROD/.idea/
+
+PHISHROD/examples/chase.ar
+
+PHISHROD/examples/rsrc.ar
+
+*.exe
